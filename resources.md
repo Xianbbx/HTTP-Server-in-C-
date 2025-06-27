@@ -1,1 +1,1 @@
-A file with useful resources for this project
+A list of resources I used and were helpful in building this project
